@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BottomAppBarImplementation</string>
+    <string name="action_mail">Mail</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_archieve">Archive</string>
+    <string name="action_search">Search</string>
 </resources>
