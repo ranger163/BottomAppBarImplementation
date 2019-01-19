@@ -22,3 +22,10 @@ An example of implementing BottomAppBar: Material Components for Android based o
 
 ![](https://cdn-images-1.medium.com/max/1000/1*m5-MzMKlwK2mt3jmuDJC6w.gif)
 
+<h3 name="efd0" id="efd0" class="graf graf--h3 graf-after--figure"><strong class="markup--strong markup--h3-strong">Menu and Navigation Drawer Control</strong></h3>
+
+![](https://cdn-images-1.medium.com/max/1000/1*dkDrWovP4cZIRWJJ8hIF2Q.gif)
+
+![](https://cdn-images-1.medium.com/max/1000/1*ISqR1HXpwlHaQp3dIMPwCQ.png)
+
+![](https://cdn-images-1.medium.com/max/1000/1*YcAqKASQA2IEtrilGFJmKQ.gif)
