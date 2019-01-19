@@ -4,13 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <TextView
-        android:id="@+id/textTv"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center" />
+    tools:context=".MenuAndNavigationActivity">
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
@@ -27,6 +21,8 @@
         android:layout_gravity="bottom"
         android:backgroundTint="@color/colorPrimary"
         app:fabAlignmentMode="center"
-        app:navigationIcon="@drawable/ic_open_in_new_white_24dp" />
+        app:navigationIcon="@drawable/ic_menu_white_24dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,7 +1,7 @@
 package me.inassar.bottomappbarimplementation
 
+import android.content.Intent
 import android.os.Bundle
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun interactions() {
         bottomAppBar.setNavigationOnClickListener {
-            Toast.makeText(this, "Navigation menu clicked", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, MenuAndNavigationActivity::class.java))
         }
         fab.setOnClickListener {
             textTv.text = "$count"
