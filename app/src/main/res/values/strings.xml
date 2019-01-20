@@ -9,4 +9,7 @@
     <string name="nav_item1">Navigation Item 1</string>
     <string name="nav_item2">Navigation Item 2</string>
     <string name="nav_item3">Navigation Item 3</string>
+    <string name="toggle_screen">Toggle Screen</string>
+    <string name="primary_screen">Primary Screen</string>
+    <string name="secondary_screen">Secondary Screen</string>
 </resources>

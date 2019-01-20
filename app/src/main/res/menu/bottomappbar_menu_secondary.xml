@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/app_bar_mail"
+        android:icon="@drawable/ic_email_white_24dp"
+        android:title="@string/action_mail"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_delete"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:title="@string/action_delete"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_archive"
+        android:icon="@drawable/ic_archive_white_24dp"
+        android:title="@string/action_archive"
+        app:showAsAction="ifRoom" />
+
+</menu>
