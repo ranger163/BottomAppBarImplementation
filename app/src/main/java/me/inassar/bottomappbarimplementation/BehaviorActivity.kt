@@ -57,8 +57,8 @@ class BehaviorActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
         when (item?.itemId) {
             android.R.id.home -> {
-                BottomNavigationDrawerFragment().show(supportFragmentManager,
-                        BottomNavigationDrawerFragment().tag)
+                CustomBottomNavDrawer().show(supportFragmentManager,
+                        CustomBottomNavDrawer().tag)
             }
         }
         return true

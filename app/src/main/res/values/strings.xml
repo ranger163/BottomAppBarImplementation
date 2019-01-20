@@ -9,7 +9,19 @@
     <string name="nav_item1">Navigation Item 1</string>
     <string name="nav_item2">Navigation Item 2</string>
     <string name="nav_item3">Navigation Item 3</string>
+    <string name="nav_item4">Navigation Item 4</string>
+    <string name="nav_item5">Navigation Item 5</string>
+    <string name="nav_item6">Navigation Item 6</string>
+    <string name="nav_item7">Navigation Item 7</string>
+    <string name="nav_item8">Navigation Item 8</string>
+    <string name="nav_item9">Navigation Item 9</string>
+    <string name="nav_item10">Navigation Item 10</string>
+    <string name="nav_item11">Navigation Item 11</string>
+    <string name="nav_item12">Navigation Item 12</string>
+    <string name="nav_item13">Navigation Item 13</string>
     <string name="toggle_screen">Toggle Screen</string>
     <string name="primary_screen">Primary Screen</string>
     <string name="secondary_screen">Secondary Screen</string>
+    <string name="ahmed_nassar">Ahmed Nassar</string>
+    <string name="example_email_com">example@email.com</string>
 </resources>

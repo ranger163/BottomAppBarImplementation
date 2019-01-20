@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="@string/nav_item1" />
+        <item
+            android:id="@+id/nav2"
+            android:icon="@drawable/ic_bookmark_black_24dp"
+            android:title="@string/nav_item2" />
+        <item
+            android:id="@+id/nav3"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/nav_item3" />
+        <item
+            android:id="@+id/nav4"
+            android:icon="@drawable/ic_note_black_24dp"
+            android:title="@string/nav_item4" />
+        <item
+            android:id="@+id/nav5"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="@string/nav_item5" />
+        <item
+            android:id="@+id/nav6"
+            android:icon="@drawable/ic_sync_black_24dp"
+            android:title="@string/nav_item6" />
+        <item
+            android:id="@+id/nav7"
+            android:icon="@drawable/ic_cloud_upload_black_24dp"
+            android:title="@string/nav_item7" />
+        <item
+            android:id="@+id/nav8"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/nav_item8" />
+        <item
+            android:id="@+id/nav9"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="@string/nav_item9" />
+        <item
+            android:id="@+id/nav10"
+            android:icon="@drawable/ic_select_all_black_24dp"
+            android:title="@string/nav_item10" />
+        <item
+            android:id="@+id/nav11"
+            android:icon="@drawable/ic_sort_black_24dp"
+            android:title="@string/nav_item11" />
+        <item
+            android:id="@+id/nav12"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="@string/nav_item12" />
+        <item
+            android:id="@+id/nav13"
+            android:icon="@drawable/ic_data_usage_black_24dp"
+            android:title="@string/nav_item13" />
+
+    </group>
+</menu>
