@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomappbar.BottomAppBar
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import kotlinx.android.synthetic.main.activity_behavior.*
+import kotlinx.android.synthetic.main.content_behavior.*
 import me.inassar.bottomappbarimplementation.R.drawable.*
 import me.inassar.bottomappbarimplementation.R.menu.bottomappbar_menu_primary
 import me.inassar.bottomappbarimplementation.R.menu.bottomappbar_menu_secondary
