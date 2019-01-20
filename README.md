@@ -29,3 +29,7 @@ An example of implementing BottomAppBar: Material Components for Android based o
 ![](https://cdn-images-1.medium.com/max/1000/1*ISqR1HXpwlHaQp3dIMPwCQ.png)
 
 ![](https://cdn-images-1.medium.com/max/1000/1*YcAqKASQA2IEtrilGFJmKQ.gif)
+
+<h3 name="efd0" id="efd0" class="graf graf--h3 graf-after--figure"><strong class="markup--strong markup--h3-strong">FAB toggle example</strong></h3>
+
+![](https://cdn-images-1.medium.com/max/1575/1*SyNOY-axZTpy0bjRqu1nJA.gif)
